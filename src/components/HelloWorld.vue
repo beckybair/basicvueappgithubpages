@@ -1,6 +1,12 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+      With Bootstrap!
+      <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <i class="fas fa-times" aria-hidden="true"></i>
+      </button>
+    </div>
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
       check out the
