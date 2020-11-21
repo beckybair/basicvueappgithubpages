@@ -1,4 +1,5 @@
-# basicvueappgithubpages
+# Basic Vue App w/Github Pages
+Vue this app:  [Here](https://beckybair.github.io/basicvueappgithubpages/)
 
 ## Project setup
 ```
